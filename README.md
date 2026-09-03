@@ -11,7 +11,7 @@ Based on the query, generates a natural, context-aware reply
 Sends the reply back automatically through Gmail
 Logs each processed email for review
 # Tech / Tools Used
-n8n – workflow automation platform<img width="800" height="426" alt="ScreenRecording2026-09-02211411-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/13ba2c15-3abd-4fc0-b34a-d7a3f83e3f46" />
+n8n – workflow automation platform<img width="800" height="426" alt="ScreenRecording2026-09-02211411-ezgif com-video-to-gif-converter"
 
 Gmail node – for receiving and sending emails
 AI Agent node – for understanding queries and generating replies
